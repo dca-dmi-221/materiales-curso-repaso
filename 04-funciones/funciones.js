@@ -2,12 +2,12 @@
 function saludar(nombreEmisor, nombreReceptor){
     console.log("hola " + nombreReceptor + ", soy: " + nombreEmisor);
 }
-saludar("Daniela", "Jose");
-saludar("Jose", "Daniela");
+saludar("Viviana", "Jose");
+saludar("Jose", "Viviana");
 
 // expresión
 let saludar = function(nombreEmisor, nombreReceptor){
     console.log("hola " + nombreReceptor + ", soy: " + nombreEmisor);
 }
-saludar("Daniela", "Jose");
-saludar("Jose", "Daniela");
+saludar("Juanito", "Jose");
+saludar("Jose", "Juanito");

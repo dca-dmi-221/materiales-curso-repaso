@@ -17,12 +17,12 @@ console.log("5"-1);
 let a = 5;
 let b = 3456;
 // let resultado = 3 * 3456;
-let resultado = a * b;
+let resultadoMultiplicacion = a * b;
 console.log(resultado);
 
 // división
 let c = 20;
 let d = 4;
 let e = 5;
-let resultado = (c / d) / e;
+let resultadoDvision = (c / d) / e;
 console.log(resultado);
